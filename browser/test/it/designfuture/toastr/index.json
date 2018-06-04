@@ -1,0 +1,27 @@
+{
+	"it.designfuture.toastr": {
+        "icon": "sap-icon://message-popup",
+        "name": "Toastr",
+		"description": "Powerfull utility to generated stunning Toast" ,
+		"source": "https://github.com/StErMi/openui5-toastr",
+		"documentation": "https://github.com/StErMi/openui5-toastr/blob/master/README.md",
+		"demo": "https://stermi.github.io/openui5-toastr/test/demo/",
+		"version": "0.0.1",
+		"license": "Apache 2.0",
+		"content": {
+			"QRCode": {
+				"id": "Toastr",
+				"name": "Toastr",
+				"type": "control",
+				"version": "0.0.1",
+				"description": "Powerfull utility to generated stunning Toast",
+				"samples": [{
+					"id": "Toastr",
+					"name": "Toastr",
+					"description": "Powerfull utility to generated stunning Toast",
+					"url": "https://stermi.github.io/openui5-toastr/test/demo/"
+				}]
+			}
+		}
+	}
+}
